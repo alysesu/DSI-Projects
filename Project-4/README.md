@@ -1,6 +1,6 @@
 # Early Detection for West Nile Virus in Windy City, Illinois
 ### DSI-16 Project 4
-By Alexis, Alyse, Dylan and Wei Tian
+By [Alexis](https://github.com/alexislimsh), Alyse, [Dylan](https://github.com/DylanLee91) and [Wei Tian](https://github.com/yeoweitian)
 # Content
 ### Data Utilised
 - **Train:** The training data consist of sample data from 2007, 2009, 2011, and 2013.
